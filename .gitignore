@@ -1,0 +1,8 @@
+# バイナリは不要
+/kosample
+/main
+/token
+# ドキュメントは不要
+docs
+
+k6
